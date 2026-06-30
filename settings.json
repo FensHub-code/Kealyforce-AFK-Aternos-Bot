@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KealyForce.aternos.me:61684",
+    "ip": "KealyForce.aternos.me",
     "port": 61684,
     "version": "1.20.1",
     "try-creative": false
