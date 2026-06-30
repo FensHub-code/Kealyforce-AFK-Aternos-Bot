@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "dKNth@n@wFaUW5J"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "Bakiye yüklemek için discord sunucumuzdan Ticket aç",
-        "Web sitemizden KEALY kodu ile %80 indirim kazanın"
+        "Web sitemizden KEALY kodu ile yüzde 80 indirim kazanın"
       ]
     },
     "chat-log": true,
